@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [mayk.brito.net.br](https://mayk.brito.net.br)
 
-- ▶️ I regulary post videos on [youtube.com/rocketseat](https://youtube.com/rocketseat)
+- ▶️ I regulary post videos on [youtube.com/maykbrito](https://youtube.com/maykbrito)
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL**
 
