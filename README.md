@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [maykbrito.dev](https://maykbrito.dev)
 
-- ▶️ I regulary post videos on [youtube.com/maykbrito](https://youtube.com/maykbrito)
+- ▶️ I regularly post videos on [youtube.com/maykbrito](https://youtube.com/maykbrito)
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
 
