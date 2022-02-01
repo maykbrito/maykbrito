@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **Oneye 😜**
 
-<br><br>
+<br>
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -31,7 +31,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 
-<br><br>
+<br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
@@ -40,7 +40,7 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
 </p>
 
-<br><br>
+<br>
 
 ## 👨🏽‍🦲 &nbsp;Social Links
 
@@ -63,7 +63,6 @@
 </p>
 
 <img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=maykbrito&layout=wide&show_reply=off&show_retweet=off" />
-
 
 <!--
 **maykbrito/maykbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
